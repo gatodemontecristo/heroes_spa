@@ -59,7 +59,7 @@ export const Navbar = () => {
                     </NavLink> */}
 
                     <span className="nav-item nav-link text-primary">
-                        Fernando
+                        Erick
                     </span>
                     <button className='nav-item nav-link btn' onClick={onLogout} >
                         Logout
