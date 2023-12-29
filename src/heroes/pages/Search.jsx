@@ -41,8 +41,8 @@ export const Search = () => {
 
       {
         (q==='')
-        ? <div className="alert alert-primary">Search a hero</div>
-        : (heroes.length === 0) && <div className="alert alert-danger">Not hero with <b>{q}</b> </div>
+        ? <div className="alert alert-primary animate__animated animate__fadeIn">Search a hero</div>
+        : (heroes.length === 0) && <div className="alert alert-danger animate__animated animate__fadeIn">Not hero with <b>{q}</b> </div>
       }
 
       

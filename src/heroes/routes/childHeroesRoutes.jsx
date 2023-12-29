@@ -6,4 +6,5 @@ export const childHeroesRoutes = [
   { path: "search", element: <Search></Search> },
   { path: "hero/:heroId", element: <Hero></Hero> },
   { path: "/*", element: <Navigate to="/marvel" /> },
+  { path: "/", element: <Navigate to="/marvel" /> },
 ];
