@@ -1,10 +1,16 @@
-import React from 'react'
+import { useContext } from 'react'
 import { useNavigate } from 'react-router-dom';
 
 export const LoginPage = () => {
+
+  const {login} = useContext(second);
+
+
   const navigate = useNavigate();
 
     const onLogin = () =>{
+
+      login('Erick Dejo');      
       navigate('/marvel',{
         replace: true
     });
