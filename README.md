@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="[https://github.com/gatodemontecristo/yugiohPractica](https://github.com/gatodemontecristo/heroes_spa)">
-    <img src="https://github.com/gatodemontecristo/heroes_spa/blob/main/assets/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/gatodemontecristo/heroes_spa">
+    <img src="https://github.com/gatodemontecristo/heroes_spa/blob/main/public/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Proyecto Hero SMASH vs2</h3>
@@ -24,13 +24,14 @@
 * 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 *   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 * 	![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+* 	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
 ### Captura
 
-  <div align="center" display="flex">
-     <img src="/Captura.PNG" alt="Sección de configuración" width="70%" >
-  </div>
+ ![871shots_so](https://github.com/gatodemontecristo/heroes_spa/assets/61488294/ac38883c-131f-4516-b002-c1a4cf0ffd80)
+
+![670shots_so](https://github.com/gatodemontecristo/heroes_spa/assets/61488294/8142b073-2690-48fa-afda-3aaf7c878924)
 
 
 # React + Vite
